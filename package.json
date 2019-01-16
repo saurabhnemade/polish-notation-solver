@@ -1,0 +1,11 @@
+{
+  "name": "revese-polish-notation",
+  "version": "1.0.0",
+  "description": "A simple approach to sovle reverse-polish-notation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saurabh Nemade",
+  "license": "MIT"
+}
